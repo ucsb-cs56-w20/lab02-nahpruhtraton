@@ -1,7 +1,5 @@
 # lab02-nahpruhtraton
 
-* TODO: Correct the links to the javadoc then delete this TODO
-
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-nahpruhtraton/  
 Repo: https://github.com/ucsb-cs56-w20/lab02-nahpruhtraton
 
